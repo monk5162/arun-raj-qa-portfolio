@@ -11,7 +11,7 @@ export const personalInfo = {
   tagline: 'Ensuring Quality. Delivering Reliability.',
   intro:
     'Detail-oriented QA Tester with hands-on experience in manual testing of mobile and web applications. Passionate about delivering reliable software through rigorous testing practices and continuously advancing toward automation excellence.',
-  resumeUrl: '/resume/Arun_Raj_NP_Resume.pdf',
+  resumeUrl: '/arun-raj-qa-portfolio/resume/Arun_Raj_NP_Resume.pdf',
   github: 'https://github.com/your-github-username',
   linkedin: 'https://linkedin.com/in/your-linkedin-username',
 }
